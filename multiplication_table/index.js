@@ -5,4 +5,4 @@ for (let a = 1; a <= 9; a++) {
           table += `${a}*${c}=${a * c} `
         }
         console.log(table);
-	}
+}
